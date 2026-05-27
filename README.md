@@ -1,0 +1,7 @@
+# template-course-repo
+repo for lecture course, homeworks, practical exercises, Engee/Pyhton/Kaggle workshops
+
+https://github.com/TAUforPython/BaseControlTheory
+
+Шаблон для отчетов в LaTex формате
+https://github.com/latex-g7-32/latex-g7-32
